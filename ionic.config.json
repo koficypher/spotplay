@@ -1,0 +1,7 @@
+{
+  "name": "spotplay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
